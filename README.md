@@ -171,11 +171,6 @@ My Animal     Find Friends
 - Animal ID Card
 - Dashboard Design
 
-### Nived P K
-- Friend Matching Algorithm
-- Chat Module
-- Testing & Integration
-
 ---
 
 ## ❤️ Made with TinkerHub Useless Projects 2026
