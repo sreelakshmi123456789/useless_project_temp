@@ -87,7 +87,7 @@ cd animal-world
 
 ### 1. Animal Registration & Sound Verification
 
-![Registration](screenshots/registration.png)
+<img width="1920" height="1020" alt="Screenshot 2026-09-12 081500" src="https://github.com/user-attachments/assets/36294fd4-e233-4097-bee0-1a045bc503b1" />
 
 Animals register by entering their species, habitat, age, favourite food, and verify their identity using their own sound.
 
@@ -95,7 +95,10 @@ Animals register by entering their species, habitat, age, favourite food, and ve
 
 ### 2. Welcome Dashboard
 
-![Dashboard](screenshots/home.png)
+![Uploading Screenshot 2026-09-12 081533.png…]()
+<img width="1920" height="1020" alt="idd" src="https://github.com/user-attachments/assets/33adca7d-ed89-44de-8d41-218092ff1f0d" />
+
+
 
 The verified animal enters the beautiful Animal World homepage with navigation for My Animal, Find Friends, Chatting, and Settings.
 
@@ -103,7 +106,7 @@ The verified animal enters the beautiful Animal World homepage with navigation f
 
 ### 3. My Animal ID Card
 
-![ID Card](screenshots/profile.png)
+<img width="1920" height="1020" alt="idd" src="https://github.com/user-attachments/assets/21b23602-988b-4c88-a39f-2c642dd2ccc3" />
 
 Every verified animal receives a unique Animal ID card containing its profile, species, habitat, favourite food, QR code, and verification badge.
 
@@ -136,7 +139,7 @@ My Animal     Find Friends
 
 ## Video
 
-**Demo Link:** *(Add your Google Drive or YouTube link here)*
+**Demo Link:** *(https://drive.google.com/file/d/1cLfTMYVbsBJ70nnGtnsG3Prxxy2Nq4x4/view?usp=drive_link)*
 
 ### What the demo shows
 
